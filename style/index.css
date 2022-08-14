@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.page{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.componentArea{
+  height: 100vh;
+  width: 30vw;
+}
+
+.moblie{
+  height: 100vh;
+  width: 40vw;
+  background: pink;
+}
+
+.designArea{
+  width: 30vw;
+}
